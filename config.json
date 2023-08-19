@@ -8,7 +8,7 @@
 	"user": "RSTeVVUkRw1imwRsiuSDtp7sXF7bRvMW4Q",
 	"pass": "c=VRSC",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 10,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
